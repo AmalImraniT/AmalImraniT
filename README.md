@@ -1,9 +1,9 @@
-# Hi 👋, I'm Amal TAIBI
+# Hi 👋, I'm Amal TAIBI IMMRANI
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello+World!;I'm+a;Software+engineering+student;Welcome+to+my+GitHub+Profile!&center=true)
 <h3>I'm a passionate software engineering student from Morocco.</h3>
 
-- 💬 Ask me about **C , C++ ,POSTGRESQL , Laravel ..**
+- 💬 Ask me about **C , C++ ,JAVA,C#,POSTGRESQL , Laravel ,SpringBoot**
 
 - 📫 How to reach me **amal.taibiimmrani@etu.uae.ac.ma**
 
