@@ -38,11 +38,12 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmalImraniT&layout=compact&theme=radical" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmalImraniT&layout=compact&title_color=00c8ff&text_color=0f4c75&icon_color=00c8ff&bg_color=ffffff&border_color=00c8ff" alt="Most Used Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmalImraniT&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AmalImraniT&show_icons=true&title_color=00c8ff&text_color=0f4c75&icon_color=00c8ff&bg_color=ffffff&border_color=00c8ff" alt="GitHub Stats"/>
 </p>
+
 
 ---
