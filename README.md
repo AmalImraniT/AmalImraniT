@@ -24,7 +24,11 @@
   <a href="mailto:amal.taibiimmrani@etu.uae.ac.ma" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="40" width="40" />
   </a>
+  <a href="https://amaltaibi-imrani.vercel.app/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" height="40" width="40" />
+  </a>
 </p>
+
 
 
 ---
