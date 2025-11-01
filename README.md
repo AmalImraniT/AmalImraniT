@@ -6,7 +6,7 @@
 
 ## 👩‍💻 About Me  
 🎓 Passionate **Software Engineering Student** from Morocco  
-💻 **Full Stack Engineer** — *Frontend (React) | Backend (Laravel & SpringBoot)*  
+💻 **Full Stack Engineer** — *Frontend (React) | Backend (Angular & SpringBoot)*  
 📚 Strong foundation in **C, C++, Java, C#, SQL (PostgreSQL, MySQL, Oracle)**  
 🚀 Love building scalable, secure, and modern applications  
 
