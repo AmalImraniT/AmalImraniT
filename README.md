@@ -1,6 +1,6 @@
 # Hi 👋, I'm Amal TAIBI IMMRANI  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello+World!;I'm+a+Full+Stack+Engineer;Frontend+(React)+%7C+Backend+(Laravel+%26+SpringBoot);Welcome+to+my+GitHub!&center=true&width=600&height=45)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello+World!;I'm+a+Full+Stack+Engineer;Frontend+(React)+%7C+Backend+(%26+SpringBoot);Welcome+to+my+GitHub!&center=true&width=600&height=45)
 
 ---
 
